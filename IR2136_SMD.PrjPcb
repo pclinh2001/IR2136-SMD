@@ -170,6 +170,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for VFD_SMD\Design Rule Check - Control.html
 DItemRevisionGUID=
 
+[GeneratedDocument25]
+DocumentPath=Project Outputs for IR2136_SMD\Design Rule Check - IR2136_SMD.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
